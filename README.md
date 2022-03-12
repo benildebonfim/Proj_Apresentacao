@@ -1,11 +1,14 @@
 # Proj_Apresentacao
  Projecto1
 
----------------- Apresentação ----------------
+------------------ Apresentação ------------------
+
+
 Nacionalidade: Santomense
 Nome: Benilde Bonfim
 Curso: Licenciatura em Engenharia Informática
 
+--------------------------------------------------
 
 
 
